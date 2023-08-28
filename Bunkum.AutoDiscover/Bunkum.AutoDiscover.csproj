@@ -33,7 +33,7 @@
     </Target>
 
     <ItemGroup>
-      <PackageReference Include="Bunkum" Version="3.3.12" />
+      <PackageReference Include="Bunkum" Version="3.3.15" />
     </ItemGroup>
 
 </Project>
